@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/headshot.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "assets/images/link2.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Lucas Lima",
 	bio: "Lucas Lima. C# Developer",
 	links: [
@@ -65,7 +65,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "LinkedIn",
 			icon: "fa6-brands:linkedin",
-			url: "https://www.linkedin.com/in/lucas-thiago-de-faria-lima-a40944380/",
+			url: "https://www.linkedin.com/in/lucastflima/",
 		},
 		{
 			name: "Instagram",
